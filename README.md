@@ -6,7 +6,7 @@ and play Star Wars sounds through a buzzer.
 
 We used two engines connected to the LN-298N controller, the HC-06 Bluethoot module, a switch and 18 AA batteries.
 
-In this folder you can find the schematic, the code in .cpp  and in /arduinoBB8 the .ino file.
+In this folder you can find the schematic, the code in .cpp the .ino file.
 
 
 # What I learned
