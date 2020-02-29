@@ -1,4 +1,3 @@
-// Software of the 6th Team - "ROBOKBROS"
 // Written by Gianfranco Lacasella
 // App used on Android: Arduino Bluetooth RC Car
 
