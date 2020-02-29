@@ -1,7 +1,6 @@
 # BB-8 Robot  Controller Sketch for  Arduino
 
-An Arduino Sketch created to control a BB-8 robot, for a project at Universidad de los Andes. My team used Bluetooth
-and an app on a smartphone to control the robot. The BB-8 was able to move in 8 directions, and play Star Wars sounds through a buzzer.
+An Arduino Sketch created to control a BB-8 robot, for a project at Universidad de los Andes. My team built the BB8 case, and I was in charge of programming and electronics. We used a smartphone app to control the robot through Bluethoot. The BB-8 was able to move in 8 directions, and play Star Wars sounds through a buzzer.
 
 ## Getting Started
 
