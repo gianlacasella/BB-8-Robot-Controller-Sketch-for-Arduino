@@ -10,6 +10,10 @@ We used two engines connected to the LN-298N controller, the HC-06 Bluethoot mod
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+![Schematic](/img/schematic.jpg)
+Format: ![Alt Text](url)
+
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
