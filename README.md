@@ -9,7 +9,7 @@ We used two engines connected to the LN-298N controller, the HC-06 Bluethoot mod
 ## Getting Started
 
 First of all, clone or download this repository, and assemble the circuit accordingly to the schematic below. You can also
-find it on /img folder. Please, note that ENA and ENB are the ENA and ENB of the LN-298N controller.
+find it on /img folder. *Please, note that ENA and ENB are the ENA and ENB of the LN-298N controller.*
 
 ![Schematic](/img/schematic.jpg)
 
