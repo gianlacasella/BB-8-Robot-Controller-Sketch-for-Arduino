@@ -54,6 +54,7 @@ int tiempo = 0; // Variable that handles the speed with which arduino checks if 
 int rapidez = 0; // Variable that stores the actual BB-8 speed
 
 // Some notes, that can be used in the sound functions
+// I leave them all, so you can add your own sound functions if you want
 //           Note    = Frequency
 const float  nota_C0 = 16.35;  //C0
 const float  nota_Db0 = 17.32;  //C#0/Db0

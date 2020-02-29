@@ -1,10 +1,7 @@
 # BB-8 Robot  Controller Sketch for  Arduino
 
 An Arduino Sketch created to control a BB-8 robot, for a project at Universidad de los Andes. My team used Bluetooth
-and the "Arduino Bluetooth RC Car" app on an Android phone to control the robot. The BB-8 was able to move in 8 directions,
-and play Star Wars sounds through a buzzer. 
-
-We used two engines connected to the LN-298N controller, the HC-06 Bluethoot module, a switch and 18 AA batteries.
+and an app on a smartphone to control the robot. The BB-8 was able to move in 8 directions, and play Star Wars sounds through a buzzer.
 
 ## Getting Started
 
@@ -37,7 +34,6 @@ The commands on the Arduino Bluethoot RC Car app are:
 * Speed at 80: Slider at 80
 * Speed at 90: Slider at 90
 * Speed at 100: Slider at 100
-
 * Sound 1: Back lights on
 * Sound 2: Front lights on
 * Sound 3: Front lights off
@@ -47,9 +43,19 @@ The commands on the Arduino Bluethoot RC Car app are:
 
 ### Prerequisites
 
-```
-Give examples
-```
+1. You need to install Arduino IDE on your computer. You can do it from https://www.arduino.cc/en/main/software .
+2. You need to assemble the circuit, accordingly to the schematic. The components used on this project are:
+    - Arduino UNO
+    - HC-06 Bluethoot Module
+    - LN-298N Controller
+    - 2 DC Engines
+    - Cables
+    - Buzzer
+    - Switch
+    - Batteries: 18V 2700-2900mAh for the controller and 9V 2700-2900mAh for the Arduino
+    - Your smartphone
+3. Install Arduino RC Car app on your smartphone. On Android, you can download it from https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=es_CL
+
 
 ## What I learned
 
