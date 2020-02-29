@@ -6,11 +6,50 @@ and play Star Wars sounds through a buzzer.
 
 We used two engines connected to the LN-298N controller, the HC-06 Bluethoot module, a switch and 18 AA batteries.
 
-In this folder you can find the schematic, the code in .cpp the .ino file.
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# What I learned
+### Prerequisites
 
-* Programming an Arduino using Arduino IDE (pinMode, setup, loop function, digital and analog write and their differences)
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## What I learned
+
+* Programming an Arduino using Arduino IDE
 * Play sounds and melodies through a buzzer
 * Manage Bluetooth communication with an Android app on Arduino
+
+## Authors
+
+* **Gianfranco Lacasella** - *Initial work* - [glacasellaUANDES](https://github.com/glacasellaUANDES)
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE- see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* My teammates, who managed the BB8 case construction
