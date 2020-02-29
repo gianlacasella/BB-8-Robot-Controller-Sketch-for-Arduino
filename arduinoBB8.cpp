@@ -34,9 +34,9 @@ Speed at 100 = 'q' ------------> Slider at 100
                 FORMAT
 Sound type = char ---------------> Button on the Android App
 
+Sound 1 = 'U' -------------------> Back lights on
 Sound 2 = 'W' -------------------> Front lights on
 Sound 3 = 'w' -------------------> Front lights off
-Sound 1 = 'U' -------------------> Back lights on
 Imperial March = 'u' ------------> Back lights off
 Ooooh = 'V' ---------------------> Horn on
 Double Ooohh = 'v' --------------> Horn off

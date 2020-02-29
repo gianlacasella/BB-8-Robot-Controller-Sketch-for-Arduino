@@ -26,36 +26,26 @@ The commands on the Arduino Bluethoot RC Car app are:
 * Go backward/left: Backward button + Left button
 * Go right: Right button
 * Go left: Left button
+* Speed at 0: Slider at 0
+* Speed at 10: Slider at 10
+* Speed at 20: Slider at 20
+* Speed at 30: Slider at 30
+* Speed at 40: Slider at 40
+* Speed at 50: Slider at 50
+* Speed at 60: Slider at 60
+* Speed at 70: Slider at 70
+* Speed at 80: Slider at 80
+* Speed at 90: Slider at 90
+* Speed at 100: Slider at 100
 
+* Sound 1: Back lights on
+* Sound 2: Front lights on
+* Sound 3: Front lights off
+* Imperial March: Back lights off
+* Ooooh: Horn on
+* Double Ooohh: Horn off
 
-                FORMAT
-Speed at v  = value -----------> Slider value on the Android App
-
-Speed at 0  = 0 ---------------> Slider at 0
-Speed at 10 = 1 ---------------> Slider at 10
-Speed at 20 = 2 ---------------> Slider at 20
-Speed at 30 = 3 ---------------> Slider at 30
-Speed at 40 = 4 ---------------> Slider at 40
-Speed at 50 = 5 ---------------> Slider at 50
-Speed at 60 = 6 ---------------> Slider at 60
-Speed at 70 = 7 ---------------> Slider at 70
-Speed at 80 = 8 ---------------> Slider at 80
-Speed at 90 = 9 ---------------> Slider at 90
-Speed at 100 = 'q' ------------> Slider at 100
-
-
-                FORMAT
-Sound type = char ---------------> Button on the Android App
-
-Sound 2 = 'W' -------------------> Front lights on
-Sound 3 = 'w' -------------------> Front lights off
-Sound 1 = 'U' -------------------> Back lights on
-Imperial March = 'u' ------------> Back lights off
-Ooooh = 'V' ---------------------> Horn on
-Double Ooohh = 'v' --------------> Horn off
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 Give examples
