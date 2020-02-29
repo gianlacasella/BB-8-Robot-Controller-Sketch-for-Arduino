@@ -1,36 +1,46 @@
 // Written by Gianfranco Lacasella
-// App used on Android: Arduino Bluetooth RC Car
 
-// Direction: char ---------------> Button on the Android App
-// Go forward: 'F' ---------------> Forward button
-// Go forward/right: 'I' ---------> Forward button + Right button
-// Go forward/left: 'G'-----------> Forward button + Left button
-// Go backward: 'B' --------------> Backward button
-// Go backward/right: 'J'---------> Backward button + Right button
-// Go backward/left: 'H' ---------> Backward button + Left button
-// Go right: 'R' -----------------> Right button
-// Go left: 'L' ------------------> Left button
 
-// Speed at v  = value -----------> Slider value on the Android App
-// Speed at 0  = 0 ---------------> Slider at 0
-// Speed at 10 = 1 ---------------> Slider at 10
-// Speed at 20 = 2 ---------------> Slider at 20
-// Speed at 30 = 3 ---------------> Slider at 30
-// Speed at 40 = 4 ---------------> Slider at 40
-// Speed at 50 = 5 ---------------> Slider at 50
-// Speed at 60 = 6 ---------------> Slider at 60
-// Speed at 70 = 7 ---------------> Slider at 70
-// Speed at 80 = 8 ---------------> Slider at 80
-// Speed at 90 = 9 ---------------> Slider at 90
-// Speed at 100 = 'q' ------------> Slider at 100
+/*
+                FORMAT
+Direction: char ---------------> Button on the Android App
 
-// Sound type = char ---------------> Button on the Android App
-// Sound 2 = 'W' -------------------> Front lights on
-// Sound 3 = 'w' -------------------> Front lights off
-// Sound 1 = 'U' -------------------> Back lights on
-// Imperial March = 'u' ------------> Back lights off
-// Ooooh = 'V' ---------------------> Horn on
-// Double Ooohh = 'v' --------------> Horn off
+Go forward: 'F' ---------------> Forward button
+Go forward/right: 'I' ---------> Forward button + Right button
+Go forward/left: 'G'-----------> Forward button + Left button
+Go backward: 'B' --------------> Backward button
+Go backward/right: 'J'---------> Backward button + Right button
+Go backward/left: 'H' ---------> Backward button + Left button
+Go right: 'R' -----------------> Right button
+Go left: 'L' ------------------> Left button
+
+
+                FORMAT
+Speed at v  = value -----------> Slider value on the Android App
+
+Speed at 0  = 0 ---------------> Slider at 0
+Speed at 10 = 1 ---------------> Slider at 10
+Speed at 20 = 2 ---------------> Slider at 20
+Speed at 30 = 3 ---------------> Slider at 30
+Speed at 40 = 4 ---------------> Slider at 40
+Speed at 50 = 5 ---------------> Slider at 50
+Speed at 60 = 6 ---------------> Slider at 60
+Speed at 70 = 7 ---------------> Slider at 70
+Speed at 80 = 8 ---------------> Slider at 80
+Speed at 90 = 9 ---------------> Slider at 90
+Speed at 100 = 'q' ------------> Slider at 100
+
+
+                FORMAT
+Sound type = char ---------------> Button on the Android App
+
+Sound 2 = 'W' -------------------> Front lights on
+Sound 3 = 'w' -------------------> Front lights off
+Sound 1 = 'U' -------------------> Back lights on
+Imperial March = 'u' ------------> Back lights off
+Ooooh = 'V' ---------------------> Horn on
+Double Ooohh = 'v' --------------> Horn off
+*/
 
 
 // Constants
